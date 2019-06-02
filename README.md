@@ -6,4 +6,6 @@ But while learning this art I came to this conclusion that alone machines can ut
 So while learning and understanding this technology I have implemented it on various datasets to understand how it behaves and how to tune it. I have not tried to improve the models' predictive ability on datasets and understood what works on what and how.
 This repo also works well as my personal notes.
 
+Likedin Profile: linkedin.com/in/maddyml/
+
 Thank you!
